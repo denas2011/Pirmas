@@ -65,7 +65,7 @@ public class Main {
             }
         }while (!arPavyko);
         
-       System.out.println("Labas")
+       System.out.println("Labas");
     }
 
 }
